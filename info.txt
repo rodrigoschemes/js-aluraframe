@@ -1,0 +1,52 @@
+Instalar o projeto Server (APIs)
+- Node.JS
+- cd server
+- npm install
+
+Instalar o projeto Client
+- cd client
+- npm install
+
+
+Compilar o projeto
+- cd client
+- npm run build / npm run watch (compilar em tempo de execução)
+
+Rodar o projeto
+- cd server
+- npm start
+- http://localhost:3000
+
+
+Conteúdo
+- ES6
+- MVC
+- Orientação a Objetos em JS
+- Encapsulamento
+- Herança
+- Métodos estáticos
+- Programação Funcional
+- Arrow Functions
+- API Reflection
+- XMLHTTP
+- Callback (Tratando Callback Hell)
+- Pyramid of Doom
+- Error-first
+- IndexedDB
+- Monkey Patch
+- Poly Fill (compatibilidade ES2016 -> ES2015)
+- Fetch API
+- Babel (Transpiller)
+- System.js / Boot.js (Módulos e Dependência do ES2015)
+
+
+Design Patterns
+- Composição
+- Mixin
+- Observer
+- Proxy
+- Factory
+- Promises
+- Module Pattern
+- DAO
+
